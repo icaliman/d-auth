@@ -1,0 +1,33 @@
+{
+  "name": "d-auth",
+  "description": "Saron Console plugin",
+  "version": "0.0.1",
+  "main": "index.js",
+  "keywords": [
+    "derby",
+    "component",
+    "auth"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/icaliman/d-auth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/icaliman/d-auth/issues"
+  },
+  "author": {
+    "name": "John Caliman"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "~1.7.1",
+    "passport": "~0.2.0",
+    "passport-local": "~1.0.0",
+    "connect-flash": "~0.1.1",
+    "lodash": "~2.4.1",
+    "nodemailer": "~0.6.2"
+  },
+  "devDependencies": {},
+  "_id": "d-console@0.0.2",
+  "_from": "d-console@~0.0.1"
+}
