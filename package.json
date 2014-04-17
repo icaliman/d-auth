@@ -27,7 +27,5 @@
     "lodash": "~2.4.1",
     "nodemailer": "~0.6.2"
   },
-  "devDependencies": {},
-  "_id": "d-console@0.0.2",
-  "_from": "d-console@~0.0.1"
+  "devDependencies": {}
 }
